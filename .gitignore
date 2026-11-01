@@ -1,0 +1,6 @@
+bin/
+obj/
+out/
+*.pcl2fix.bak
+*.user
+.vs/
