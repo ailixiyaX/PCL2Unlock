@@ -6,6 +6,8 @@
 
 ![界面](docs/gui.png)
 
+**直接下载**：[Releases](https://github.com/ailixiyaX/PCL2Unlock/releases/latest)（Windows x64 单文件，无需安装 .NET）
+
 ## 背景
 
 2026-10 起，原版 PCL 移除了中国大陆地区的 Minecraft 安装 / 下载入口：
